@@ -55,4 +55,5 @@ java -jar apktool.jar b hackme
 
 - [Задание](../README.md)
 - [Статья 1: Android, приложения](./APPS.md)
-- **Статья 2: ApkTool, JADX, Smali**
+- **Статья 2: ApkTool**
+- [Статья 3: JADX](./JADX.md)

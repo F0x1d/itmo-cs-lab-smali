@@ -49,4 +49,5 @@
 
 - [Задание](../README.md)
 - **Статья 1: Android, приложения**
-- [Статья 2: ApkTool, JADX, Smali](./APKTOOL.md)
+- [Статья 2: ApkTool](./APKTOOL.md)
+- [Статья 3: JADX](./JADX.md)

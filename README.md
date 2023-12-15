@@ -24,4 +24,5 @@
 
 - **Задание**
 - [Статья 1: Android, приложения](./articles/APPS.md)
-- [Статья 2: ApkTool, JADX, Smali](./articles/APKTOOL.md)
+- [Статья 2: ApkTool](./articles/APKTOOL.md)
+- [Статья 3: JADX](./articles/JADX.md)
