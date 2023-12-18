@@ -26,3 +26,4 @@
 - [Статья 1: Android, приложения](./articles/APPS.md)
 - [Статья 2: ApkTool](./articles/APKTOOL.md)
 - [Статья 3: JADX](./articles/JADX.md)
+- [Статья 4: Основы Smali](./articles/SMALI-BASIC.md)
