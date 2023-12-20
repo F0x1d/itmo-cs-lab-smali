@@ -58,3 +58,4 @@ java -jar apktool.jar b hackme
 - **Статья 2: ApkTool**
 - [Статья 3: JADX](./JADX.md)
 - [Статья 4: Основы Smali](./SMALI-BASIC.md)
+- [Статья 5: Переменные, методы в Smali](./SMALI-VARS-METHODS.md)

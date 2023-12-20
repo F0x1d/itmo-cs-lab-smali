@@ -24,3 +24,4 @@
 - [Статья 2: ApkTool](./APKTOOL.md)
 - **Статья 3: JADX**
 - [Статья 4: Основы Smali](./SMALI-BASIC.md)
+- [Статья 5: Переменные, методы в Smali](./SMALI-VARS-METHODS.md)
