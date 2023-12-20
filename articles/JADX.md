@@ -25,3 +25,4 @@
 - **Статья 3: JADX**
 - [Статья 4: Структура Smali](./SMALI-STRUCTURE.md)
 - [Статья 5: Переменные и методы в Smali](./SMALI-VARS-METHODS.md)
+- [Статья 6: Best practices в Smali](./SMALI-BEST-PRACTICES.md)
