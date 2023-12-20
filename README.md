@@ -26,5 +26,5 @@
 - [Статья 1: Android, приложения](./articles/APPS.md)
 - [Статья 2: ApkTool](./articles/APKTOOL.md)
 - [Статья 3: JADX](./articles/JADX.md)
-- [Статья 4: Основы Smali](./articles/SMALI-BASIC.md)
-- [Статья 5: Переменные, методы в Smali](./articles/SMALI-VARS-METHODS.md)
+- [Статья 4: Структура Smali](./articles/SMALI-STRUCTURE.md)
+- [Статья 5: Переменные и методы в Smali](./articles/SMALI-VARS-METHODS.md)

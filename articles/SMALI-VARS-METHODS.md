@@ -1,4 +1,4 @@
-# Статья 5: Переменные, методы в Smali
+# Статья 5: Переменные и методы в Smali
 
 Здесь мы уже наконец-то перейдём к практике. [Здесь](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html) вы можете найти описание всех команд байт-кода `Smali`. Подробнее почитать описание команд можно ещё и [тут](https://habr.com/ru/articles/495024)
 
@@ -143,5 +143,5 @@ invoke-direct {v0, p0, p1}, Lcom/f0x1d/hackme/MainViewModel$checkStatus$1;-><ini
 - [Статья 1: Android, приложения](./APPS.md)
 - [Статья 2: ApkTool](./APKTOOL.md)
 - [Статья 3: JADX](./JADX.md)
-- [Статья 4: Основы Smali](./SMALI-BASIC.md)
-- **Статья 5: Переменные, методы в Smali**
+- [Статья 4: Структура Smali](./SMALI-STRUCTURE.md)
+- **Статья 5: Переменные и методы в Smali**
