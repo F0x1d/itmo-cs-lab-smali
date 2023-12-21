@@ -145,4 +145,4 @@ invoke-direct {v0, p0, p1}, Lcom/f0x1d/hackme/MainViewModel$checkStatus$1;-><ini
 - [Статья 3: JADX](./JADX.md)
 - [Статья 4: Структура Smali](./SMALI-STRUCTURE.md)
 - **Статья 5: Переменные и методы в Smali**
-- [Статья 6: Best practices в Smali](./SMALI-BEST-PRACTICES.md)
+- [Статья 6: Get started в Smali](./SMALI-GET-STARTED.md)
